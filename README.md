@@ -44,9 +44,9 @@ I have chosen to duplicate the following layout from the **Tinder** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and101/Dy9BJAzb.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='"C:\Users\dejah\OneDrive\Desktop\Pincher.gif"' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
