@@ -44,7 +44,8 @@ I have chosen to duplicate the following layout from the **Tinder** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='"C:\Users\dejah\OneDrive\Desktop\Pincher.gif"' title='Video Demo' width='' alt='Video Demo' />
+<img src='![Uploading Pincher.gif…]()
+' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
