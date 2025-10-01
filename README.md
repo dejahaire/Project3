@@ -44,8 +44,8 @@ I have chosen to duplicate the following layout from the **Tinder** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='![Uploading Pincher.gif…]()
-' title='Video Demo' width='' alt='Video Demo' />
+![Pincher](https://github.com/user-attachments/assets/b1f0a099-aac5-49db-b65e-7effa0c5e988)
+
 
 GIF created with **ScreenToGif**
 
